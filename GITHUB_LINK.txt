@@ -1,0 +1,10 @@
+Repository URL: https://github.com/GurneetKaur14/ShoppingCartRedux.git
+Student Name: Gurneet Kaur
+Student ID: N01724218
+Lab: CPAN 213 - Lab 7
+Date: November 5, 2025
+Advanced Redux features implemented:
+- Product list with loaded products
+- Product added to cart
+- Cart with items
+- Cart with quantities
